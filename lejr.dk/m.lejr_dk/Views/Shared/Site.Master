@@ -1,0 +1,29 @@
+﻿<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>
+        <asp:ContentPlaceHolder ID="TitleContent" runat="server" />
+    </title>
+    <link rel="shortcut icon" href="../../Content/images/favicon.ico" />
+    <link href="../../Content/Site.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.css" />
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
+    <script type="text/javascript" src="http://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.js"></script>
+</head>
+<body>
+    <div data-role="page" data-theme="b" id="jqm-home">
+        <div data-role="header" data-theme="b">
+            <h1>
+                m.lejr.dk</h1>
+        </div>
+        <div data-role="content" role="main" class="ui-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        </div>
+        <div data-role="footer" data-theme="b">
+            <p>Se standard websitet? <a href="http://www.lejr.dk?ignoreMobile=true">Klik her</a></p>
+        </div>
+    </div>
+</body>
+</html>

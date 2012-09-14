@@ -1,0 +1,17 @@
+obj
+bin
+deploy
+_ReSharper.*
+*.csproj.user
+*.resharper.user
+*.resharper
+*.suo
+*.cache
+*.userprefs
+*.pidb
+Debug/
+Release/
+PackageInfo.xml
+/version.txt
+*.min.css
+*.min.js

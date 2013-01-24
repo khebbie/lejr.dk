@@ -10,6 +10,6 @@
     <p>Du må deltage i puttelejr fra du er 5 år til du går i  0. klasse</p>
     <p>Lejrchef er Anders Kristoffersen</p>
     <p>Lejre i 2013</p>
-     <p>Sommerlejr dato endnu ikke præcist fastlagt, men det bliver i perioden 29/6 – 12/7</p>
+     <p>Sommerlejr afholdes 29.06. – 1.07.2013</p>
 
 </asp:Content>

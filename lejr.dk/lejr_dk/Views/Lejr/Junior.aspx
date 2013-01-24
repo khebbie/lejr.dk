@@ -11,6 +11,8 @@
    <p> Du må deltage i juniorlejr fra 4. - 6. klasse</p>
    <h3>Lejre i 2013</h3>
    <p>22. – 24. februar weekendlejr</p>
-   <p>Sommerlejr dato endnu ikke præcist fastlagt, men det bliver i perioden 29/6 – 12/7</p>
+   <p>Lejrchef er Rasmus Breindahl</p>
+   <p>Du kan finde <a href="http://www.lejr.dk/upload/JuniorlejrF2013.pdf">programmet her</a></p>
+   <p>Sommerlejr afholdes 7.07. – 12.07.2013</p>
    <p>25. – 27. oktober weekendlejr</p>
 </asp:Content>

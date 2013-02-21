@@ -14,6 +14,7 @@
     <AssemblyName>lejr_dk</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <MvcBuildViews>false</MvcBuildViews>
+    <UseIISExpress>false</UseIISExpress>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -123,6 +124,7 @@
     <Content Include="Content\images\photo-small-01.jpg" />
     <Content Include="Content\images\photo-small-02.jpg" />
     <Content Include="Content\print-styles.css" />
+    <Content Include="downscout1ec1b98ccbc0f844.html" />
     <Content Include="Global.asax" />
     <Content Include="Views\Home\bestyrelsen.aspx" />
     <Content Include="Views\Lejr\Boerne.aspx" />
@@ -164,6 +166,9 @@
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Content\BaseCampF13.pdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="Content\images\Thumbs.db" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

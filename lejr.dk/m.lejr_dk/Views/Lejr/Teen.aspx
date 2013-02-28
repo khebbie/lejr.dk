@@ -11,5 +11,6 @@
     <p>Lejrchef er Jacob Nielsen Tlf: 51 90 25 84</p>
      <p>Lejre i 2013</p>
      <p>Teenweekend: 1.-3. Marts</p>
+     <p>Du kan finde <a href="https://www.dropbox.com/sh/s6t5q6pcny7w4ua/8IG-MlJt90/BaseCampF13.pdf.pdf">programmet her</a></p>
      <p>Teenweekend: 4.-6. oktober</p>
 </asp:Content>

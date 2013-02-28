@@ -25,6 +25,14 @@ For at komme med på weekend-junior-lejr skal man gå i 4., 5. eller 6. klasse.
 For at komme med på teenlejr skal man gå i 7.klasse – 10. klasse.
     
     </p>
+     <h2>Indkaldelse til generalforsamling</h2>
+        <p>
+            Kristen lejrforening afholder generalforsamling d. 22/3 kl. 16.30 på Meyer Møllers vej 55, 8240 Risskov.<br/>
+            Dagsorden ifølge vedtægterne<br/>
+            Forslag skal være bestyrelsen i hænde senest d. 8.Marts<br/>
+            MVH Bestyrelsen<br/>
+            Forslag og spørgsmål sendes til Maria Bentin Vindum ( maria.bentin.vindum@mail.dk )
+        </p>
     <div class="clear">
     </div>
     <div class="photo-container" style="width:420px;">
@@ -36,7 +44,5 @@ For at komme med på teenlejr skal man gå i 7.klasse – 10. klasse.
                 </div>
                 <div class="photo-bottom"><span></span></div>
             </div>
-    
-            
     </p>
 </asp:Content>

@@ -8,4 +8,5 @@
     <p>Lejrchefer er Dorthe Bjerge og Linda Schröder</p>
      <p>Lejre i 2013</p>
     <p>Sommerlejr afholdes 2.07. – 6.07.2013</p>
+    <p><a href="http://www.lejr.dk/upload/boernelejr2013.pdf">Se program</a></p>
 </asp:Content>

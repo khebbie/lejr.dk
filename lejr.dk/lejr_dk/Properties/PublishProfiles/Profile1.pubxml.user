@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile>2013-02-28T22:19:21.9999999+01:00</TimeStampOfAssociatedLegacyPublishXmlFile>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAARndVGGnoUkKlbYdkqxUH1gAAAAACAAAAAAADZgAAwAAAABAAAABqtzHO4HFF7SHuV34P6+cbAAAAAASAAACgAAAAEAAAAEAMGmIJTj/GtoecG1maRPQYAAAAzGpT6koCGQMrveDNw1xgRZpFLIpqRva2FAAAAHiacEUCmVlrGLe+ltpeTStTU62P</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>01/13/2010 03:56:10</publishTime>
+    </File>
+    <File Include="bin/Castle.ActiveRecord.dll">
+      <publishTime>01/15/2010 20:44:32</publishTime>
+    </File>
+    <File Include="bin/Castle.ActiveRecord.xml">
+      <publishTime>01/15/2010 20:44:30</publishTime>
+    </File>
+    <File Include="bin/Castle.Components.Validator.dll">
+      <publishTime>01/15/2010 04:06:48</publishTime>
+    </File>
+    <File Include="bin/Castle.Core.dll">
+      <publishTime>01/13/2010 04:03:50</publishTime>
+    </File>
+    <File Include="bin/Castle.DynamicProxy2.dll">
+      <publishTime>01/13/2010 04:03:48</publishTime>
+    </File>
+    <File Include="bin/Iesi.Collections.dll">
+      <publishTime>01/13/2010 03:57:04</publishTime>
+    </File>
+    <File Include="bin/lejr_dk.dll">
+      <publishTime>05/07/2013 16:26:15</publishTime>
+    </File>
+    <File Include="bin/lejr_dk.pdb">
+      <publishTime>02/21/2013 13:09:54</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>01/13/2010 04:04:30</publishTime>
+    </File>
+    <File Include="bin/Lucene.Net.dll">
+      <publishTime>01/13/2010 03:59:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.ServiceLocation.dll">
+      <publishTime>04/16/2010 12:11:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.dll">
+      <publishTime>04/16/2010 12:20:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.pdb">
+      <publishTime>04/16/2010 12:17:46</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.xml">
+      <publishTime>04/16/2010 12:17:46</publishTime>
+    </File>
+    <File Include="bin/NHibernate.ByteCode.Castle.dll">
+      <publishTime>01/13/2010 03:57:44</publishTime>
+    </File>
+    <File Include="bin/NHibernate.dll">
+      <publishTime>01/13/2010 03:59:40</publishTime>
+    </File>
+    <File Include="bin/NHibernate.Search.dll">
+      <publishTime>01/13/2010 03:59:36</publishTime>
+    </File>
+    <File Include="Content/images/ad.gif">
+      <publishTime>09/24/2010 15:54:18</publishTime>
+    </File>
+    <File Include="Content/images/bg-button.png">
+      <publishTime>12/14/2008 23:17:48</publishTime>
+    </File>
+    <File Include="Content/images/bg-footer-tile.png">
+      <publishTime>12/14/2008 23:17:48</publishTime>
+    </File>
+    <File Include="Content/images/bg-footer.png">
+      <publishTime>12/14/2008 23:17:48</publishTime>
+    </File>
+    <File Include="Content/images/bg-legend.png">
+      <publishTime>12/14/2008 23:17:48</publishTime>
+    </File>
+    <File Include="Content/images/bg-login.png">
+      <publishTime>12/14/2008 23:17:48</publishTime>
+    </File>
+    <File Include="Content/images/bg-main-inner.png">
+      <publishTime>12/14/2008 23:17:48</publishTime>
+    </File>
+    <File Include="Content/images/bg-main.png">
+      <publishTime>12/14/2008 23:17:48</publishTime>
+    </File>
+    <File Include="Content/images/bg-nav-main-active.png">
+      <publishTime>12/14/2008 23:17:48</publishTime>
+    </File>
+    <File Include="Content/images/bg-photo-sides.png">
+      <publishTime>12/14/2008 23:17:48</publishTime>
+    </File>
+    <File Include="Content/images/bg-photo.png">
+      <publishTime>12/14/2008 23:17:48</publishTime>
+    </File>
+    <File Include="Content/images/bg-poster.jpg">
+      <publishTime>12/14/2008 23:17:48</publishTime>
+    </File>
+    <File Include="Content/images/bg-side-bucket.png">
+      <publishTime>12/14/2008 23:17:48</publishTime>
+    </File>
+    <File Include="Content/images/bullet.png">
+      <publishTime>12/14/2008 23:17:48</publishTime>
+    </File>
+    <File Include="Content/images/favicon.ico">
+      <publishTime>12/14/2008 23:17:48</publishTime>
+    </File>
+    <File Include="Content/images/j- knudsen.jpg">
+      <publishTime>04/26/2006 23:07:54</publishTime>
+    </File>
+    <File Include="Content/images/photo-small-01.jpg">
+      <publishTime>12/14/2008 23:17:48</publishTime>
+    </File>
+    <File Include="Content/images/photo-small-02.jpg">
+      <publishTime>12/14/2008 23:17:48</publishTime>
+    </File>
+    <File Include="Content/print-styles.css">
+      <publishTime>12/14/2008 23:18:06</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>09/24/2010 17:14:13</publishTime>
+    </File>
+    <File Include="downscout1ec1b98ccbc0f844.html">
+      <publishTime>02/18/2013 08:58:36</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>09/23/2010 20:43:59</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1-vsdoc.js">
+      <publishTime>09/23/2010 20:43:57</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.js">
+      <publishTime>09/23/2010 20:43:57</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.min.js">
+      <publishTime>09/23/2010 20:43:57</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate-vsdoc.js">
+      <publishTime>09/23/2010 20:43:58</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>09/23/2010 20:43:58</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>09/23/2010 20:43:58</publishTime>
+    </File>
+    <File Include="Scripts/MicrosoftAjax.debug.js">
+      <publishTime>09/23/2010 20:43:58</publishTime>
+    </File>
+    <File Include="Scripts/MicrosoftAjax.js">
+      <publishTime>09/23/2010 20:43:58</publishTime>
+    </File>
+    <File Include="Scripts/MicrosoftMvcAjax.debug.js">
+      <publishTime>09/23/2010 20:43:58</publishTime>
+    </File>
+    <File Include="Scripts/MicrosoftMvcAjax.js">
+      <publishTime>09/23/2010 20:43:59</publishTime>
+    </File>
+    <File Include="Scripts/MicrosoftMvcValidation.debug.js">
+      <publishTime>09/23/2010 20:43:59</publishTime>
+    </File>
+    <File Include="Scripts/MicrosoftMvcValidation.js">
+      <publishTime>09/23/2010 20:43:59</publishTime>
+    </File>
+    <File Include="Views/Account/ChangePassword.aspx">
+      <publishTime>09/23/2010 20:43:59</publishTime>
+    </File>
+    <File Include="Views/Account/ChangePasswordSuccess.aspx">
+      <publishTime>09/23/2010 20:43:59</publishTime>
+    </File>
+    <File Include="Views/Account/LogOn.aspx">
+      <publishTime>09/26/2010 21:18:58</publishTime>
+    </File>
+    <File Include="Views/Account/Register.aspx">
+      <publishTime>09/23/2010 20:43:59</publishTime>
+    </File>
+    <File Include="Views/Home/About.aspx">
+      <publishTime>09/26/2010 19:53:04</publishTime>
+    </File>
+    <File Include="Views/Home/bestyrelsen.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/Home/Index.aspx">
+      <publishTime>02/28/2013 22:19:12</publishTime>
+    </File>
+    <File Include="Views/Lejr/Boerne.aspx">
+      <publishTime>05/18/2013 08:48:39</publishTime>
+    </File>
+    <File Include="Views/Lejr/Junior.aspx">
+      <publishTime>05/07/2013 16:23:17</publishTime>
+    </File>
+    <File Include="Views/Lejr/Putte.aspx">
+      <publishTime>05/07/2013 16:12:40</publishTime>
+    </File>
+    <File Include="Views/Lejr/Teen.aspx">
+      <publishTime>05/07/2013 16:26:12</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.aspx">
+      <publishTime>09/23/2010 20:43:59</publishTime>
+    </File>
+    <File Include="Views/Shared/LogOnUserControl.ascx">
+      <publishTime>09/23/2010 20:43:59</publishTime>
+    </File>
+    <File Include="Views/Shared/Site.Master">
+      <publishTime>04/19/2011 23:24:47</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>09/23/2010 20:43:59</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/07/2013 16:26:28</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

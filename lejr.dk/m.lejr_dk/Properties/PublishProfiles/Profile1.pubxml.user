@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile>2013-02-21T13:10:16.9999999+01:00</TimeStampOfAssociatedLegacyPublishXmlFile>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAARndVGGnoUkKlbYdkqxUH1gAAAAACAAAAAAADZgAAwAAAABAAAACThuGsWFJm0/lLa2cNqkJlAAAAAASAAACgAAAAEAAAAMjSTauQlTQf6/aDEahas4gYAAAA1PofQW7qSjI8NIyvc2W9m1sRDXW1VsylFAAAAD7aXdC+wMnz98TWsy8YSb+E6cUw</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/m.lejr_dk.dll">
+      <publishTime>05/07/2013 16:26:15</publishTime>
+    </File>
+    <File Include="bin/m.lejr_dk.pdb">
+      <publishTime>01/23/2013 15:12:36</publishTime>
+    </File>
+    <File Include="Content/images/favicon.ico">
+      <publishTime>11/24/2011 21:59:08</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>04/19/2011 10:27:25</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/19/2011 10:19:36</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1-vsdoc.js">
+      <publishTime>04/19/2011 10:19:34</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.js">
+      <publishTime>04/19/2011 10:19:34</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.min.js">
+      <publishTime>04/19/2011 10:19:34</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate-vsdoc.js">
+      <publishTime>04/19/2011 10:19:35</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>04/19/2011 10:19:35</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>04/19/2011 10:19:35</publishTime>
+    </File>
+    <File Include="Scripts/MicrosoftAjax.debug.js">
+      <publishTime>04/19/2011 10:19:35</publishTime>
+    </File>
+    <File Include="Scripts/MicrosoftAjax.js">
+      <publishTime>04/19/2011 10:19:35</publishTime>
+    </File>
+    <File Include="Scripts/MicrosoftMvcAjax.debug.js">
+      <publishTime>04/19/2011 10:19:35</publishTime>
+    </File>
+    <File Include="Scripts/MicrosoftMvcAjax.js">
+      <publishTime>04/19/2011 10:19:35</publishTime>
+    </File>
+    <File Include="Scripts/MicrosoftMvcValidation.debug.js">
+      <publishTime>04/19/2011 10:19:36</publishTime>
+    </File>
+    <File Include="Scripts/MicrosoftMvcValidation.js">
+      <publishTime>04/19/2011 10:19:36</publishTime>
+    </File>
+    <File Include="Views/Home/Index.aspx">
+      <publishTime>04/19/2011 12:53:55</publishTime>
+    </File>
+    <File Include="Views/Lejr/Boerne.aspx">
+      <publishTime>05/18/2013 08:48:39</publishTime>
+    </File>
+    <File Include="Views/Lejr/Junior.aspx">
+      <publishTime>05/07/2013 16:23:17</publishTime>
+    </File>
+    <File Include="Views/Lejr/Putte.aspx">
+      <publishTime>05/07/2013 16:12:55</publishTime>
+    </File>
+    <File Include="Views/Lejr/Teen.aspx">
+      <publishTime>05/07/2013 16:26:12</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.aspx">
+      <publishTime>04/19/2011 10:19:36</publishTime>
+    </File>
+    <File Include="Views/Shared/LogOnUserControl.ascx">
+      <publishTime>04/19/2011 10:19:36</publishTime>
+    </File>
+    <File Include="Views/Shared/Site.Master">
+      <publishTime>11/24/2011 22:07:22</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>04/19/2011 10:19:36</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/07/2013 16:27:59</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

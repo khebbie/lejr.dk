@@ -11,5 +11,7 @@
     <p>Lejrchef er Anders Kristoffersen</p>
     <p>Lejre i 2013</p>
      <p>Sommerlejr afholdes 29.06. – 1.07.2013</p>
-
+    <p>
+        <a href="http://www.lejr.dk/upload/puttelejr2012.pdf">Du kan finde programmet her</a>
+    </p>
 </asp:Content>

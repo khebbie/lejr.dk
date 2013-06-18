@@ -1,0 +1,12 @@
+require 'albacore'
+
+task :default  => :msbuild
+
+desc "Build solution"
+msbuild :msbuild do |msb|
+ msb.properties :configuration => :Release
+ msb.targets :Clean, :Build
+ msb.solution = "lejr_dk.sln"
+end
+
+

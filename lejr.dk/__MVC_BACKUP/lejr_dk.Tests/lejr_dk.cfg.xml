@@ -1,0 +1,22 @@
+<activerecord>
+
+  <config>
+    <add
+      key="connection.driver_class"
+      value="NHibernate.Driver.MySqlDataDriver" />
+    <add
+      key="dialect"
+      value="NHibernate.Dialect.MySQLDialect" />
+    <add
+      key="connection.provider"
+      value="NHibernate.Connection.DriverConnectionProvider" />
+    <add
+      key="connection.connection_string"
+      value="server=db.lejr.dk;User Id=web112014;password=4nb8rj4z87;Persist Security Info=True;database=web112014" />
+  <add
+      key="use_proxy_validator"
+      value="false" />
+   <add value="NHibernate.ByteCode.Castle.ProxyFactoryFactory, NHibernate.ByteCode.Castle" key="proxyfactory.factory_class" />
+  </config>
+
+</activerecord>
